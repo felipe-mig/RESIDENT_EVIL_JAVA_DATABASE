@@ -12,7 +12,7 @@ This is a Java project where I applied the principles of Inheritance and Polymor
  <br> https://www.oracle.com/java/technologies/downloads/
 
 2. Set the environment PATH variable in PowerShell:
- <br> [System.Environment]::SetEnvironmentVariable("Path", $env:Path + ";<path to the JDK bin>", "User")
+ <br> [System.Environment]::SetEnvironmentVariable("Path", $env:Path + "; <--path to the JDK bin-->", "User")
 
 4. Check Javac and Java are properly installed:
     <br> In PowerShell insert the commands: 
@@ -22,10 +22,10 @@ This is a Java project where I applied the principles of Inheritance and Polymor
 5. Write your Java program
 
 6. Compile the .java file using Javac on the terminal
-    <br> javac <file name>.java
+    <br> javac <--file name-->.java
 
 7. Run the program 
-    <br> java <file name> 
+    <br> java <--file name--> 
     <br> (don’t include the extension in the file name)
 
 
