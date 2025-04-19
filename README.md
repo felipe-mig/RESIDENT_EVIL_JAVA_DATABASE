@@ -33,8 +33,6 @@ This is a Java project where I applied the principles of Inheritance and Polymor
 
 ![Screenshot1](screenshots/Screenshot0.webp)
 
-![Screenshot2](screenshots/Screenshot6.webp)
-
 ![Screenshot3](screenshots/Screenshot11.webp)
 
 ![Screenshot3](screenshots/Screenshot2.webp)
